@@ -16,7 +16,9 @@ This project focuses on analyzing sales data for Ferns N Petals using Microsoft 
 - **Top Products:** Items like "Magman Set" and "Dolores Gift" generate the most revenue.
 - **Peak Ordering Hours:** Most orders occur between 6 AM to 10 AM.
 - **High-Order Cities:** Cities like Imphal and Kavali have the highest orders.
+ 
 ![Fern_petal_Dashboard](https://github.com/user-attachments/assets/bcee3483-0ef4-42fd-8f3e-ad123dad92ce)
+
 ## Tools & Techniques Used
 - **Microsoft Excel:** Data cleaning, analysis, pivot tables, and visualizations.
 - **Power Pivot:** Used for data modeling and creating relationships between multiple tables.
@@ -24,7 +26,7 @@ This project focuses on analyzing sales data for Ferns N Petals using Microsoft 
 - **Conditional Formatting:** To highlight key trends.
 
 ## How to Use
-1. Open `Dashboard.xlsx` in Microsoft Excel.
+1. Open `Ferns_Petals_Sales_Analysis.xlsx` in Microsoft Excel.
 2. Use slicers to filter data by occasion, date range, and category.
 3. Analyze key metrics and trends in the dashboard.
 
